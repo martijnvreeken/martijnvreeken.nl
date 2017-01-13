@@ -1,0 +1,2 @@
+*-large.png in 800x533
+*-small.png in 400x400
